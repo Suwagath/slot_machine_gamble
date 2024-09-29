@@ -1,0 +1,15 @@
+{
+  "name": "slot_machine_gamble",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
